@@ -1,0 +1,41 @@
+2021-03-72 23:21:52 INFO  HomePageTest:27 - Setup Test
+2021-03-72 23:42:04 INFO  HomePageTest:26 - Setup Test
+2021-03-72 23:42:06 INFO  HomePageTest:29 - Siteye Gidiliyor
+2021-03-72 23:42:15 INFO  HomePage:31 - Giris Yap uzerine mouse getiriliyor
+2021-03-72 23:42:15 INFO  HomePage:35 - Mouse bekletiliyor
+2021-03-72 23:42:18 INFO  HomePage:39 - Giris Yap butonuna tıklanıyor
+2021-03-72 23:42:23 INFO  LoginPage:31 - Mail Adresi alınıyor
+2021-03-72 23:42:24 INFO  LoginPage:37 - Password alınıyor
+2021-03-72 23:42:24 INFO  LoginPage:43 - Login Yapılıyor
+2021-03-72 23:42:28 INFO  LoginPage:47 - Login Kontrolu
+2021-03-72 23:42:28 INFO  SearchPage:27 - Search kelimesi alınır
+2021-03-72 23:42:29 INFO  SearchPage:33 - Search edilir
+2021-03-72 23:42:38 INFO  SearchPage:38 - Second page acilir.
+2021-03-72 23:42:44 INFO  SearchPage:44 - Sayfa kontrolu yapılır.
+2021-03-72 23:42:44 INFO  SelectProduct:25 - Random urun secilir
+2021-03-72 23:42:47 INFO  SelectProduct:37 - urunun fiyatı alınır
+2021-03-72 23:42:59 INFO  Basket:42 - urunun fiyati alinir.
+2021-03-72 23:45:10 INFO  HomePageTest:26 - Setup Test
+2021-03-72 23:45:13 INFO  HomePageTest:29 - Siteye Gidiliyor
+2021-03-72 23:45:19 INFO  HomePage:31 - Giris Yap uzerine mouse getiriliyor
+2021-03-72 23:45:19 INFO  HomePage:35 - Mouse bekletiliyor
+2021-03-72 23:45:22 INFO  HomePage:39 - Giris Yap butonuna tıklanıyor
+2021-03-72 23:45:26 INFO  LoginPage:31 - Mail Adresi alınıyor
+2021-03-72 23:45:26 INFO  LoginPage:37 - Password alınıyor
+2021-03-72 23:45:26 INFO  LoginPage:43 - Login Yapılıyor
+2021-03-72 23:45:31 INFO  LoginPage:47 - Login Kontrolu
+2021-03-72 23:45:31 INFO  SearchPage:27 - Search kelimesi alınır
+2021-03-72 23:45:31 INFO  SearchPage:33 - Search edilir
+2021-03-72 23:45:37 INFO  SearchPage:38 - Second page acilir.
+2021-03-72 23:45:42 INFO  SearchPage:44 - Sayfa kontrolu yapılır.
+2021-03-72 23:45:42 INFO  SelectProduct:25 - Random urun secilir
+2021-03-72 23:45:48 INFO  SelectProduct:37 - urunun fiyatı alınır
+2021-03-72 23:45:59 INFO  Basket:42 - urunun fiyati alinir.
+2021-03-72 23:46:00 INFO  Basket:30 - Product sayısı 2 yapılır.
+2021-03-72 23:46:00 INFO  Basket:46 - Product sayısı kontrolu
+2021-03-72 23:46:00 INFO  Basket:46 - Product sayısı kontrolu
+2021-03-72 23:46:10 INFO  Basket:36 - Urunler silinir.
+2021-03-72 23:51:30 INFO  HomePageTest:27 - Setup Test
+2021-03-72 23:51:33 INFO  HomePageTest:30 - Siteye Gidiliyor
+2021-03-72 23:52:09 INFO  HomePageTest:27 - Setup Test
+2021-03-72 23:52:11 INFO  HomePageTest:30 - Siteye Gidiliyor
